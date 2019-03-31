@@ -1,0 +1,1 @@
+find /usr/local/lib/ -type f -name "cv2*.so"
