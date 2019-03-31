@@ -1,10 +1,10 @@
 sudo apt-get update
 sudo apt-get upgrade
 
-Remove any previous installations of x264</h3>
+# Remove any previous installations of x264</h3>
 sudo apt-get remove x264 libx264-dev
  
-We will Install dependencies now
+# We will Install dependencies now
  
 sudo apt-get install build-essential checkinstall cmake pkg-config yasm
 sudo apt-get install git gfortran
