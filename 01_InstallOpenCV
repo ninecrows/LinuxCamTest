@@ -2,7 +2,7 @@ sudo apt-get update
 sudo apt-get upgrade
 
 # Remove any previous installations of x264</h3>
-sudo apt-get remove x264 libx264-dev
+#sudo apt-get remove x264 libx264-dev
  
 # We will Install dependencies now
  
