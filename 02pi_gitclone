@@ -1,0 +1,9 @@
+git clone https://github.com/opencv/opencv.git
+cd opencv 
+git checkout 4.0.1
+cd ..
+
+git clone https://github.com/opencv/opencv_contrib.git
+cd opencv_contrib
+git checkout 4.0.1
+cd ..
